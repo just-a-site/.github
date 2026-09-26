@@ -1,8 +1,12 @@
-# About
+# just-a.site
 
-We provide free subdomains through GitHub based DNS management.
+just-a.site gives you a free subdomain for your project, profile, service, or site.
 
-You submit your record. We review the request and deploy approved DNS changes.
+Pick a name such as:
+
+`name.just-a.site`
+
+Submit your DNS record through GitHub. We review the request, validate the record, and publish approved changes.
 
 ## What We Manage
 
@@ -13,4 +17,4 @@ You submit your record. We review the request and deploy approved DNS changes.
 - Deployment tools
 - Documentation
 
-Each record stays in version control. You get a clear history of changes, ownership, and updates.
+Each record stays in version control, so you have a clear history of ownership and changes.
